@@ -1,3 +1,5 @@
+|[<b>Home</b>](https://shishang2002.github.io/) | [<b>Pictures</b>](../photo/page) | [<b>Misc</b>](../misc/list) |
+
 ### Short Bio
 I am Shishang, Master student in School of Philosophy, Wuhan University. 
 
