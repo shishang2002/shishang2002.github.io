@@ -15,9 +15,9 @@ Currently I am a master student in School of Philosophy, Wuhan University, major
 -  September 2024: 'Proof and Computation' Autumn School in Fischbachau, Germany
 
 ### Teaching
-*2023-2024
+* 2023-2024
   * Teaching assistant at Wuhan University for Mathematical Logic
-*2022-2023
+* 2022-2023
   * Teaching assistant at Wuhan University for Mathematical Logic
 
 ### On-going Project:
