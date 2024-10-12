@@ -10,6 +10,16 @@ I got my bachelor degree of  Science and Engineering in Wuhan University. I majo
 
 Currently I am a master student in School of Philosophy, Wuhan University, majoring in Modern Logic and Foundations of Mathematics.
 
+### Travel
+
+-  September 2024: 'Proof and Computation' Autumn School in Fischbachau, Germany
+
+### Teaching
+*2023-2024
+  * Teaching assistant at Wuhan University for Mathematical Logic
+*2022-2023
+  * Teaching assistant at Wuhan University for Mathematical Logic
+
 ### On-going Project:
 
 - 1
