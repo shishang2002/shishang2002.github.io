@@ -27,5 +27,5 @@ Currently I am a master student in School of Philosophy, Wuhan University, major
 
 ### Recent Talk:
 
-- 1  Lightning talk 'G1 in 5min', 'Proof and Computation' Autumn School, Herrsching, 2025 <a href="[https://500px.com.cn/milesshi](https://www.math.lmu.de/~schwicht/PC/25/slides/participants/lightning-talks/ShiShang.pdf)">slides </a>.
+- 1  Lightning talk 'G1 in 5min', 'Proof and Computation' Autumn School, Herrsching, 2025 <a href="https://www.math.lmu.de/~schwicht/PC/25/slides/participants/lightning-talks/ShiShang.pdf">slides</a>.
 - 2
